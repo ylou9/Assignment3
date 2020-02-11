@@ -1,0 +1,33 @@
+h1,h2 {
+            color:yellow;
+            font-family:fantasy;
+            font-weight:900
+        }
+
+body {
+    background-color: beige;
+}
+
+main {
+    background-color:darkorchid
+}
+.Fact {
+    color:blue;
+    font-size:15pt;
+}
+footer a {
+    color:red; 
+}
+a {
+    color: orange
+}
+a:hover {
+    color: #aaa;
+}
+h4, p{
+    color:goldenrod
+}
+#address {
+    color:white;
+    font-size:15pt;
+}
