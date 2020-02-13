@@ -14,6 +14,8 @@ main {
 .Fact {
     color:blue;
     font-size:15pt;
+    border: 5px dotted pink;
+    border-radius: 15px;
 }
 footer a {
     color:red; 
@@ -30,4 +32,10 @@ h4, p{
 #address {
     color:white;
     font-size:15pt;
+    
+    border: 5px dotted pink;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
+    border-radius: 15px;
 }
