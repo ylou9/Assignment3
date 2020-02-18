@@ -1,4 +1,10 @@
-h1,h2 {
+html {
+    color: #bcbcbc;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+h2 {
             color:yellow;
             font-family:fantasy;
             font-weight:900
@@ -9,7 +15,15 @@ body {
 }
 
 main {
-    background-color:darkorchid
+    background-color:darkorchid;
+}
+h1 {
+    margin: 15px 5px 15px 5px;
+    
+    width:430px;
+    height: 80px;
+    margin-left: auto;
+    margin-right:auto
 }
 .Fact {
     color:blue;
@@ -38,4 +52,12 @@ h4, p{
     padding-top: 15px;
     padding-left: 15px;
     border-radius: 15px;
+    
+    margin: 15px 5px 15px 5px;
+    
+    width:350px;
+    height: 30px;
+    margin-left: auto;
+    margin-right:auto
+    
 }
