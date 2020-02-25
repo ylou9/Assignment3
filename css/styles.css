@@ -37,8 +37,8 @@ h1 {
     margin-left: auto;
     margin-right:auto
 }
-.Fact {
-    color:blue;
+.fact, .mathstudy{
+    color:lightblue;
     font-size:15pt;
     border: 5px dotted pink;
     border-radius: 15px;
@@ -46,8 +46,7 @@ h1 {
 footer a {
     color:red; 
 }
-a {
-    color: orange
+a {color: orange;
 }
 a:hover {
     color: #aaa;
